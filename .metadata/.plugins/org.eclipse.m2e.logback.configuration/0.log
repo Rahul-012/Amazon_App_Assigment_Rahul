@@ -1,0 +1,30 @@
+2019-12-14 13:52:57,263 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qmetry:qaf-blank-project-maven:0.0.1-SNAPSHOT @ F:\Appium\qaf-blank-project-maven-master\pom.xml.
+2019-12-14 13:53:19,165 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-14 13:53:19,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Appium\qaf-blank-project-maven-master\src\main\resources
+2019-12-14 13:53:19,173 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-14 13:53:19,177 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Appium\qaf-blank-project-maven-master\src\test\resources
+2019-12-14 13:53:30,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Showing AJC message detail for messages of types: [error, warning, fail]
+2019-12-14 13:53:31,304 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - build config error: skipping missing, empty or corrupt aspectpath entry: F:\Appium\qaf-blank-project-maven-master\target\classes
+	<unknown source file>:<no line information>
+
+2019-12-14 13:53:31,554 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - incorrect classpath: F:\Appium\qaf-blank-project-maven-master\target\classes
+	<unknown source file>:<no line information>
+
+2019-12-14 13:53:31,617 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - bad version number found in C:\Users\Rahul-012\.m2\repository\org\aspectj\aspectjrt\1.8.9\aspectjrt-1.8.9.jar expected 1.8.2 found 1.8.9
+	<unknown source file>:<no line information>
+
+2019-12-14 13:53:36,070 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.flipkart.tc.AddProductToCart.addProductsToCard())' in Type 'com.flipkart.tc.AddProductToCart' (AddProductToCart.java:22) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:36,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.flipkart.tc.signuppo.LeftHandNavigationBar.clickOnHamerBurgerIcon())' in Type 'com.flipkart.tc.signuppo.LeftHandNavigationBar' (LeftHandNavigationBar.java:26) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:36,336 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.flipkart.tc.signuppo.LeftHandNavigationBar.selectandNavigateToAnyCategory(java.lang.String))' in Type 'com.flipkart.tc.signuppo.LeftHandNavigationBar' (LeftHandNavigationBar.java:42) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:36,617 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.flipkart.tc.signuppo.ShopByCategory.validationAllCategoryAvailable())' in Type 'com.flipkart.tc.signuppo.ShopByCategory' (ShopByCategory.java:29) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:36,898 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.flipkart.tc.SignUp_TC.lauchApp())' in Type 'com.flipkart.tc.SignUp_TC' (SignUp_TC.java:17) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:36,898 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.flipkart.tc.SignUp_TC.signUpIntoAmazonApp())' in Type 'com.flipkart.tc.SignUp_TC' (SignUp_TC.java:25) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:37,195 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Join point 'method-execution(void com.qmetry.qaf.example.steps.StepsLibrary.searchFor(java.lang.String))' in Type 'com.qmetry.qaf.example.steps.StepsLibrary' (StepsLibrary.java:14) advised by around advice from 'com.qmetry.qaf.automation.step.JavaStepReporter' (qaf-2.1.13.jar!JavaStepReporter.class(from JavaStepReporter.java))
+2019-12-14 13:53:42,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-14 13:53:42,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Appium\qaf-blank-project-maven-master\src\main\resources
+2019-12-14 13:53:42,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-14 13:53:42,748 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Appium\qaf-blank-project-maven-master\src\test\resources
+2019-12-14 13:59:08,568 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-14 13:59:08,568 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Appium\qaf-blank-project-maven-master\src\main\resources
+2019-12-14 13:59:08,568 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-14 13:59:08,568 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Appium\qaf-blank-project-maven-master\src\test\resources
